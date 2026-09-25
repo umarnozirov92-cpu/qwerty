@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.title1{
+    font-family: serif;
+}
+.title2{
+    font-family: sans-serif;
+}
+.title3{
+    font-family: monospace;
+}
+.title4{
+    font-family: cursive;
+}
+.title5{
+    font-family: 'Courier New', Courier, monospace;
+}
+.title5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.titlr6{
+    
+}
+.title7{
+    font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+@font-face{
+    font-family: meningfontim;
+    scr=url(Bitcount_Prop_Single/BitcountPropSingle-VariableFont_CRSV,ELSH,ELXP,slnt,wght.ttf)
+}
